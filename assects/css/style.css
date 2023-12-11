@@ -519,6 +519,13 @@ body {
         position: fixed;
         right: 0;
     }
+    .welcome-p{
+        padding-top: 20px;
+    }
+    .para_2{
+        line-height: 140%;
+        
+    }
 }
 
 @media (max-width:768px) {
@@ -541,5 +548,7 @@ body {
     .pb_106 {
         padding-bottom: 30px;
     }
-
+.para_2{
+    font-size: 14px !important;
+}
 }
