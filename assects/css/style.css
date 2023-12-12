@@ -17,6 +17,8 @@ p {
 .nav_box {
     background: #F6E300;
     box-shadow: 0px 8px 35px 0px rgba(0, 0, 0, 0.05);
+    padding-top: 11px;
+    padding-bottom: 11px;
 
 }
 
@@ -484,7 +486,7 @@ body {
 
     label[for="icon"]>span {
         width: 100%;
-        background-color: black;
+        background-color: #F4241E;
         height: 5px;
         border-radius: 2px;
 
@@ -540,6 +542,10 @@ body {
     .row_2-p {
         padding-top: 20px;
         padding-bottom: 30px;
+    }
+    .section_4_r{
+        flex-direction: column-reverse;
+        padding-top: 20px;
     }
 
 }
